@@ -4,3 +4,4 @@ test message02
 feature-A
 fix-B
 feature-C
+feature-E
